@@ -24,6 +24,6 @@ A fork of lineageOS to provide extra features, and to generally make android a b
 
 Thank you to all the contributors who have helped make this project possible:
 
-- **Diego Solis** ([@johndoe](https://github.com/d-solis))
+- **Diego Solis** ([@d-solis](https://github.com/d-solis))
 
 If you've contributed to this project and your name is missing, please let us know!
