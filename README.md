@@ -6,7 +6,7 @@
 
 ## About Us
 
-A fork of lineageOS to provide extra features and community wants.
+A fork of lineageOS to provide extra features, and to generally make android a better experience.
 
 ## Todo List
 
@@ -16,6 +16,7 @@ A fork of lineageOS to provide extra features and community wants.
 - [ ] Screen off sensor/radio killswitch (togglable in settings) (and may have a quick settings shortcut)
 - [ ] Double click volume rocker to skip or go back a song.
 - [ ] App Auto sorter (app menu) (by letter, by genre of app, by most used etc) (maybe add custom swipe gestures ie swipe up center will reveal apps organized by letter, swipe up left will reveal the genres of apps ie games social media etc, swipe up right will open most used apps)
+- [ ] apple like navigation bar, hope I don't get sued lmfao
 
 ## Contributors
 
