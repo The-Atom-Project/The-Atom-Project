@@ -10,6 +10,7 @@ A fork of lineageOS to provide extra features, and to generally make android a b
 
 ## Todo List
 
+- [ ] Add a sub todo list under everything on the todo list to better keep track of progress.
 - [ ] Built in integration with an equaliser such as wavelet/Jamesdsp.
 - [ ] Dark screen filter slider to lower the brightness of your display even more.
 - [ ] Built in theme selctor/maker, all customized with scss and json condig files. **that can also be imported/exported as a standalone .zip file.
